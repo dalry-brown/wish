@@ -1,0 +1,75 @@
+/*============================================================================================*/
+/* Your custom styles below */
+/*============================================================================================*/
+@font-face {
+    font-family: emmafont;
+    src: url(icon_fonts/font/Castlegar.otf);
+}
+
+@font-face {
+    font-family: emmasitename;
+    src: url(icon_fonts/font/Joyride-Regular.otf);
+}
+
+.form_title {
+    font-size: 28px;
+    color: #20292f;
+    font-weight: 700;
+    margin-bottom: 22px;
+}
+
+.form_title2 {
+    font-size: 16px;
+    color: #20292f;
+    font-weight: 700;
+    margin-bottom: 22px;
+}
+
+.scriptfont{
+    font-family: emmafont;
+    font-size: 38px;
+    font-weight: 700;
+    color: #edb61b;
+}
+
+.scriptfont2{
+    font-family: emmafont;
+    font-size: 30px;
+    font-weight: 700;
+    color: #edb61b;
+}
+
+.wishtxt{
+    color: #edb61b;
+}
+
+
+.emmasitenamefont {
+    font-family: emmasitename;
+    font-size: 28px;
+    border: 1px solid;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: rgb(201, 201, 201);
+}
+
+
+
+.imga {
+    height: 100vh;
+    width: 100vh;
+    object-fit: cover;
+}
+
+.alertemma{
+    width: 100%;
+    background: rgb(1, 146, 61);
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    display: none;
+}
